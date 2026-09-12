@@ -28,15 +28,20 @@ Memoir is a mobile event reminder application developed using Flutter and Dart. 
 
 ## Application Screens
 
-*Add screenshots of the application here.*
-
-Example:
-
+### Login
 ![Login Page](assets/screenshots/login.png)
 
+### Home
 ![Home Page](assets/screenshots/home.png)
 
+### Create Event
+![Create Event](assets/screenshots/create_event.png)
+
+### Event Details
 ![Event Details](assets/screenshots/event_details.png)
+
+### Weather
+![Weather](assets/screenshots/weather.png)
 
 ## Project Structure
 
@@ -130,24 +135,5 @@ Possible future improvements include:
 
 **Ameerah**
 
-Diploma in Computer Science
+Diploma in Computer Science + SAS
 Kolej Profesional MARA Beranang
-
-# event_reminder
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
