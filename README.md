@@ -133,7 +133,7 @@ Possible future improvements include:
 
 ## Author
 
-**Ameerah**
+**Ameerah Solehah Bt Asban**
 
 Diploma in Computer Science + SAS
 Kolej Profesional MARA Beranang
